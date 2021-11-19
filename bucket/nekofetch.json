@@ -5,7 +5,7 @@
     "license": "Apache2.0",
     "depends": "winfetch",
     "url": "https://raw.githubusercontent.com/justanobody2107/public-projects/main/nekofetch/v1.0.2/nekofetch.ps1",
-    "hash": "78AE79B2E47B8A46F54C9956D3154EA592D3B2EE824937BB3DD6362C7BACBC3F",
+    "hash": "C2851EF5678D8800B00A5C4D1EC0952C20A14387C7F0EF6BA86C221388CA49A6",
     "bin": "nekofetch.ps1",
     "checkver": "github",
     "autoupdate": {
