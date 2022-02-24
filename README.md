@@ -7,6 +7,8 @@ The official [Scoop](https://scoop.sh/) bucket for JustANobody2107's scripts. Th
 scoop bucket add nobody https://github.com/justanobody2107/scoop-bucket.git
 # For nekofetch users, run
 scoop install nobody/nekofetch
+# For uptime users, run
+scoop install nobody/uptime
 ```
 
 ## License
