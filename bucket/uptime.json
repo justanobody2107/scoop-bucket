@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "description": "Shows uptime for your PC/Laptop",
+    "homepage": "https://github.com/justanobody2107/public-projects",
+    "license": "Apache2.0",
+    "url": "https://raw.githubusercontent.com/justanobody2107/public-projects/main/uptime/v1.0.0/uptime.ps1",
+    "hash": "352DB3315237ABD3F7857159DEFF7D804BCBD2EC398CEAC8D066319197BC91A3",
+    "bin": "uptime.ps1",
+    "checkver": "github"
+}
